@@ -31,20 +31,26 @@ Amb les ulleres de Manovich, INTVL es pot entendre com un exemple de software co
 Un dels conceptes més importants aquí és el de base de dades. Cada recorregut genera informació: per on ha passat l’usuari, quina distància ha fet, quines zones ha capturat i quina posició ocupa respecte als altres participants. Aquesta informació no queda com una dada aïllada, sinó que alimenta el funcionament del joc. El moviment físic es converteix en registre, el registre es converteix en puntuació i la puntuació modifica el mapa. Això mostra molt bé com el software reorganitza una experiència real mitjançant dades.  
 També podem parlar d’interfície. En INTVL, la interfície no és només la pantalla del mòbil. També ho és la ciutat mateixa. Els carrers, els barris i els recorreguts passen a tenir una doble existència: són espais físics, però també zones digitals que es poden capturar, perdre o disputar. Aquesta fusió entre mapa i territori recorda altres experiències híbrides com Pokémon GO, però aplicada al running i a la competició esportiva.  
 La variabilitat és un altre element clau. Cada cursa pot generar un resultat diferent segons la ruta escollida, el temps, la participació d’altres usuaris i l’estat del mapa. L’experiència no és fixa ni igual per a tothom. Depèn de les accions del corredor i de la resposta del sistema.  
-En definitiva, INTVL mostra que la hibridació digital no només passa en grans instal·lacions artístiques. També apareix en apps quotidianes que transformen hàbits normals en experiències mediades pel programari. 
-Córrer es converteix en joc, el cos en input, la ciutat en mapa i el moviment en dada. Aquesta és precisament una de les idees més potents de Manovich: el software no només acompanya la cultura contemporània, sinó que la reorganitza des de dins.
+En definitiva, INTVL mostra que la hibridació digital no només passa en grans instal·lacions artístiques. També apareix en apps quotidianes que transformen hàbits normals en experiències mediades pel programari. Córrer es converteix en joc, el cos en input, la ciutat en mapa i el moviment en dada. Aquesta és precisament una de les idees més potents de Manovich: el software no només acompanya la cultura contemporània, sinó que la reorganitza des de dins.
 
 ## Comparació i conclusions
 
-## Bibliografia
+Els dos casos analitzats mostren que la cultura digital contemporània no substitueix necessàriament els mitjans anteriors, sinó que els transforma i els combina. Aquesta és una de les idees centrals que podem relacionar amb Manovich: el software no elimina l’arquitectura, el mapa, el cos o la ciutat, sinó que els reconfigura a través de noves capes d’informació, imatge i interacció.  
+En el videomapping de la Sagrada Família, el programari converteix l’arquitectura en pantalla i el patrimoni en experiència audiovisual. L’edifici continua sent material, però la seva lectura canvia temporalment gràcies a la projecció digital. El resultat és una hibridació entre monument, cinema expandit, escenografia urbana i relat visual.  
+En INTVL, el software actua d’una manera diferent. No projecta imatges sobre una façana, sinó que registra el moviment del cos i el converteix en dades. La ciutat es transforma en mapa interactiu i el running es converteix en joc. Aquí la hibridació es produeix entre esport, GPS, cartografia digital i lògica de videojoc.  
+Aquests dos exemples demostren que el software ha sortit de l’ordinador i s’ha integrat en l’espai urbà. Ja no només fem servir programes davant d’una pantalla, sinó que vivim experiències programades mentre caminem, correm, mirem un edifici o compartim imatges a les xarxes. La ciutat mateixa es converteix en una interfície híbrida.  
+Per això, tant el videomapping de la Sagrada Família com INTVL podrien formar part d’una hipotètica continuació d’El software toma el mando. Tots dos casos mostren que el comandament del software no consisteix només en crear noves eines digitals, sinó en transformar la manera com percebem, recorrem i interpretem el món físic.
 
-## Llicència
+## Referències
 
+- Manovich, Lev. *Software Takes Command*.  
+  https://manovich.net/index.php/projects/software-takes-command
 
+- Sagrada Família 2026. *Passió de Passions*.  
+  https://sagradafamilia2026.org/en/event/passio-de-passions/
 
-
-
-
+- INTVL. Web oficial.  
+  https://www.intvl.com.au/
 
 
 **Llicència:** Creative Commons BY-SA 4.0  
