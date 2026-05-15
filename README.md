@@ -50,8 +50,8 @@ Per això, tant el videomapping de la Sagrada Família com INTVL podrien formar 
 - Manovich, Lev. (2013). El Software toma el mando.
   Editorial UOC.
 
-- Sagrada Família 2026. *Passió de Passions*.  
-  https://sagradafamilia2026.org/en/event/passio-de-passions/
+- Moment Factory. Ode à la Vie: Sagrada Familia.
+  https://momentfactory.com/products/ode-a-la-vie-sagrada-familia
 
 - INTVL. Web oficial.  
   https://www.intvl.com.au/
