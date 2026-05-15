@@ -47,8 +47,8 @@ Per això, tant el videomapping de la Sagrada Família com INTVL podrien formar 
 
 ## Referències
 
-- Manovich, Lev. *Software Takes Command*.  
-  https://manovich.net/index.php/projects/software-takes-command
+- Manovich, Lev. (2013). El Software toma el mando.
+  Editorial UOC.
 
 - Sagrada Família 2026. *Passió de Passions*.  
   https://sagradafamilia2026.org/en/event/passio-de-passions/
