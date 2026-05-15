@@ -25,6 +25,10 @@ En resum, el videomapping de la Sagrada Família mostra com el software pot acti
 
 ## Cas 2: INTVL
 
+<img src="img/INTVL.png" alt="Captura de pantalla de l'app INTVL">
+
+*Font: [WEB INTVL](https://www.intvl.com.au/)*
+
 INTVL és una aplicació de running que transforma una activitat física quotidiana, com sortir a córrer, en una experiència híbrida entre esport, videojoc, mapa digital i competició social. A primera vista podria semblar simplement una app més per registrar rutes, distàncies o ritmes. Però el seu interès està en el fet que afegeix una capa de joc sobre el territori real. L’usuari no només corre: també captura zones, competeix amb altres persones i converteix el seu recorregut en una acció dins d’un mapa interactiu.  
 Aquest cas és interessant perquè porta la hibridació de mitjans a un terreny molt quotidià. No estem parlant d’un museu, d’una instal·lació artística o d’un espectacle monumental, sinó d’una pràctica normal del dia a dia. Molta gent utilitza aplicacions per fer esport, registrar passos, controlar la salut o compartir resultats. INTVL aprofita aquesta lògica i la porta cap al llenguatge del videojoc. La ciutat es converteix en un tauler, el GPS funciona com a sensor, el mòbil és la interfície i el cos del corredor es transforma en una font de dades.  
 Amb les ulleres de Manovich, INTVL es pot entendre com un exemple de software com a metamitjà. L’aplicació combina cartografia, geolocalització, estadística esportiva, joc, xarxa social i visualització de dades. Cap d’aquests elements és completament nou per separat, però el programari els uneix en una experiència única. Córrer ja no és només moure’s per l’espai físic, sinó participar en un sistema digital que interpreta cada moviment.  
