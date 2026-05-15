@@ -11,9 +11,9 @@ Els dos casos són diferents, però comparteixen una mateixa lògica: el món f�
 
 ## Cas 1: Videomapping de la Sagrada Família
 
-<img src="img/SagradaFamilia.png" alt="Videomapping a la façana de la Sagrada Família" width="200">
+<img src="img/SagradaFamilia.png" alt="Videomapping a la façana de la Sagrada Família" width="350">
 
-*Font: [Moment Factory]([https://sagradafamilia2026.org/en/event/passio-de-passions/](https://momentfactory.com/products/ode-a-la-vie-sagrada-familia))*
+*Font: [Moment Factory](https://momentfactory.com/products/ode-a-la-vie-sagrada-familia)*
 
 El videomapping de la Sagrada Família és un exemple molt clar d’hibridació entre arquitectura, imatge digital, so, animació i experiència col·lectiva. En aquest cas, un edifici patrimonial i religiós, carregat d’història i significat simbòlic, és transformat temporalment en una gran pantalla urbana. La façana deixa de ser només pedra, escultura i arquitectura, i passa a funcionar com una superfície dinàmica on es projecten llum, color, moviment i narració.  
 Aquest tipus d’experiència encaixa molt bé amb la mirada de Lev Manovich, especialment amb la idea que el software ha esdevingut un metamitjà capaç d’unir llenguatges que abans funcionaven separadament. En el videomapping no hi ha només una projecció sobre un edifici. Hi ha una combinació de disciplines: disseny visual, animació, música, il·luminació, escenografia, arquitectura i relat. Tot això és coordinat per programari, que calcula com adaptar les imatges a les formes irregulars de la façana i com sincronitzar-les amb el so i el temps de l’espectacle.  
@@ -25,7 +25,7 @@ En resum, el videomapping de la Sagrada Família mostra com el software pot acti
 
 ## Cas 2: INTVL
 
-<img src="img/INTVL.png" alt="Captura de pantalla de l'app INTVL">
+<img src="img/INTVL.png" alt="Captura de pantalla de l'app INTVL"  width="350">
 
 *Font: [WEB INTVL](https://www.intvl.com.au/)*
 
