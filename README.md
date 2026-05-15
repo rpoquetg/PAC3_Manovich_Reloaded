@@ -11,6 +11,9 @@ Els dos casos són diferents, però comparteixen una mateixa lògica: el món f�
 
 ## Cas 1: Videomapping de la Sagrada Família
 
+<img src="img/sagradafamilia.png" alt="Videomapping a la façana de la Sagrada Família" width="650">
+
+*Font: [Sagrada Família 2026](https://sagradafamilia2026.org/en/event/passio-de-passions/)*
 
 ## Cas 2: INTVL
 
